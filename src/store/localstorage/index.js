@@ -1,0 +1,1 @@
+export { setResProfile, getResProfile } from './profile';

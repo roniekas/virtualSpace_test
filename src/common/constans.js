@@ -1,0 +1,1 @@
+export const cryptoKey = process.env.REACT_APP_CRYPTO_KEY
